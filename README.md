@@ -1,4 +1,4 @@
-# Social-Netwrok-Analysis
+# Social-Network-Analysis
 NetworkX, graph mining
 
 simple assignment you have to use Python's networkX. library to load a social network and analyze it. The specific requirements are outlined below
